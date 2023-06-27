@@ -1,0 +1,21 @@
+.contenedorItem {
+    margin: 1rem;
+    border-radius: 10px;
+    background-color: #027977;
+    border-color: black;
+    border-style: groove;
+    justify-content: center;
+}
+.estiloTexto{
+    font-size: 20px ;
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    
+}
+
+img {
+    width: 65%;
+    height: 65%;
+    border-radius: 15px;
+    
+}
