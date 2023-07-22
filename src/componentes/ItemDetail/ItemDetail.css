@@ -5,6 +5,7 @@
     border-color: black;
     border-style: groove;
     justify-content: center;
+    padding: 10px;
 }
 .estiloTexto{
     font-size: 20px ;
@@ -14,8 +15,17 @@
 }
 
 img {
-    width: 65%;
+    width: 55%;
     height: 65%;
     border-radius: 15px;
     
+}
+
+.botonFinComprar{
+    margin-top:5px;
+    padding: 5px;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    border-radius: 15px;
 }

@@ -6,3 +6,12 @@
 .cantidad{
     padding-left: 15px;
 }
+
+.cuentaCarrito{
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: white;
+    margin-left: 5px;
+    font-size: 25px;
+    border-radius: 5px;
+}
